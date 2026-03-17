@@ -3,7 +3,7 @@ This UX case study focuses on designing FoodGo, a simple and user-friendly food 
 # FoodGo - UX Case Study
 
 ## 🔗 Figma Prototype
-https://www.figma.com/proto/WrSPgmtoy9Tmqvp5RqPnYS/Untitled?node-id=0-1429
+https://www.figma.com/proto/WrSPgmtoy9Tmqvp5RqPnYS/Untitled?node-id=0-353&p=f&t=rw40NeE0jBvNK3uF-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## 📌 Project Overview
 FoodGo is a UX case study focused on improving the food delivery experience. 
